@@ -1,0 +1,6 @@
+66.249.79.82 - - [06/Nov/2016:00:09:21 +0900] "GET /pman/pman.cgi?MODE=detail&id=9_26 HTTP/1.1" 200 5549 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+68.180.231.28 - - [06/Nov/2016:00:17:31 +0900] "GET /robots.txt HTTP/1.1" 404 208 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+68.180.231.28 - - [06/Nov/2016:00:17:31 +0900] "GET /robots.txt HTTP/1.1" 404 208 "-" "Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)"
+189.29.40.122 - - [10/Nov/2016:04:54:34 +0900] "GET /mnt/mtd/qt HTTP/1.0" 400 226 "-" "Wget(linux)"
+189.29.40.122 - - [10/Nov/2016:04:54:34 +0900] "GET /../mnt/mtd/qt HTTP/1.0" 400 226 "-" "Wget(linux)"
+189.29.40.122 - - [10/Nov/2016:04:54:34 +0900] "GET /../../mnt/mtd/qt HTTP/1.0" 400 226 "-" "Wget(linux)"

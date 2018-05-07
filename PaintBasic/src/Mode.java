@@ -1,0 +1,9 @@
+
+public enum Mode {
+	DRAW,
+	LINE,
+	LINE_START,
+	TRIANGLE,
+	TRIANGLE_START,
+	TRIANGLE_INTER
+}
